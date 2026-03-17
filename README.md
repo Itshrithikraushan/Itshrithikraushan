@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning ML<br>⚡ Fun fact: I' a good cricket player
+🌱 I’m currently learning ML<br>⚡ 
 
 
 # 💻 Tech Stack:
